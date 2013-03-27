@@ -1,0 +1,2 @@
+1.查找关于python post的文档
+2. 查看 python的 bottle 框架

@@ -1,0 +1,2 @@
+1.查看了python的tornado
+2.看了python的bottle数据库

@@ -1,0 +1,6 @@
+1.rabbitvcs 配置
+2.django1.4.5 linux 配置
+3.mysql 本地配置
+4.mysql-python 模块
+5.svn 上传代码
+6.BAE eclipse (放弃了 好像用不着)
